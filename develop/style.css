@@ -1,3 +1,8 @@
+
+body {
+    background-image: url(../assets/images/background.jpg);
+}
+
 /*Start Navbar Style*/
 #logo {
     font-size: 22px;
@@ -6,6 +11,8 @@
 }
 
 /*End Navbar Style*/
+
+/*Start Footer Style*/
 
 .footer {
 position: sticky;
