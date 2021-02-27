@@ -7,7 +7,7 @@ body {
 #logo {
     font-size: 22px;
     color:#E7E7EE;
-    background-color:#02182B;
+    background-color:hsl(208, 91%, 9%);
 }
 
 /*End Navbar Style*/
@@ -15,6 +15,10 @@ body {
 /*Start Footer Style*/
 
 .footer {
-position: sticky;
+position: absolute;
 bottom: 0;
+background-color:hsl(208, 91%, 9%);
+width: 100%;
+color:#E7E7EE;
 }
+
