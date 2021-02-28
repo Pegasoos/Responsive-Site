@@ -3,6 +3,10 @@ body {
     background-image: url(../assets/images/background.jpg);
 }
 
+.h1{
+    color:hsl(208, 91%, 9%) ;
+}
+
 /*Start Navbar Style*/
 #logo {
     font-size: 22px;
@@ -12,8 +16,30 @@ body {
 
 /*End Navbar Style*/
 
-/*Start Footer Style*/
+/*Content Block Styles*/
+.block {
+    background-color: white;
+    margin-top: 80px;
+    padding: 20px;
+}
 
+/*Contact Form Style*/
+.conpad {
+    padding-top: 10px;
+}
+.submit {
+padding: 15px 30px;
+font-size: 16px;
+color:white;
+background-color: hsl(208, 91%, 9%);
+border: none;
+}
+.submit:hover {
+    opacity: 70%;
+}
+/*End Contact Form Styles
+
+/*Start Footer Style*/
 .footer-strip {
     /* Box-model */
     height: 4px;
