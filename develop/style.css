@@ -1,9 +1,14 @@
+html {
+    position:relative;
+
+    min-height: 100%;
+}
 
 body {
     background-image: url(../assets/images/background.jpg);
 }
 
-.h1{
+.h1 {
     color:hsl(208, 91%, 9%) ;
 }
 
@@ -22,8 +27,21 @@ body {
     margin-top: 80px;
     padding: 20px;
 }
+/*End Content Block Style*/
+
+/*Portfolio Styles*/
+.portblock {
+    background-color: white;
+    padding: 20px;
+}
+/*End Portfolio Styles*/
 
 /*Contact Form Style*/
+.formsize {
+    min-width: 100%;
+    max-width: 100%;
+}
+
 .conpad {
     padding-top: 10px;
 }
