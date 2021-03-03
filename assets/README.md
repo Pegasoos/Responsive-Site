@@ -1,1 +1,1 @@
-# Responsive.github.io
+# Responsive.github.io is a website desgined to showcase my use of the Bootstrap CSS framework as well as my personal background and professional media links. I designed this site with mobile in mind. It features a navbar and content layout that responds to viewport size.
