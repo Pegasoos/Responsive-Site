@@ -8,17 +8,24 @@ body {
     background-image: url(../assets/images/background2.jpg);
 }
 
-.h1 {
+h1 {
     color:hsl(208, 91%, 9%) ;
+    font-family: Spartan;
+}
+p {
+    font-family: Libre Baskerville;
 }
 
 /*Start Navbar Style*/
 #logo {
+    font-family: Spartan;
     font-size: 22px;
     color:#E7E7EE;
     background-color:hsl(208, 91%, 9%);
 }
-
+#navbarNavDropdown{
+    font-family: Libre Baskerville
+}
 /*End Navbar Style*/
 
 /*Content Block Styles*/
