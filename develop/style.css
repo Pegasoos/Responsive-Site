@@ -12,10 +12,15 @@ h1 {
     color:hsl(208, 91%, 9%) ;
     font-family: Spartan;
 }
+h2{
+    font-family: Libre Baskerville;
+}
 p {
     font-family: Libre Baskerville;
 }
-
+p a{
+    text-decoration: underline;
+}
 /*Start Navbar Style*/
 #logo {
     font-family: Spartan;
