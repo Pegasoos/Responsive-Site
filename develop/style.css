@@ -21,6 +21,9 @@ p {
 p a{
     text-decoration: underline;
 }
+.fa-file-pdf{
+    font-size:20px;
+}
 /*Start Navbar Style*/
 .navbar{
     background-color: #2E2935;
@@ -38,7 +41,7 @@ p a{
 
 /*Content Block Styles*/
 .block {
-    background-color: white;
+    background-color: whitesmoke;
     margin-top: 80px;
     padding: 20px;
 }
@@ -46,7 +49,7 @@ p a{
 
 /*Portfolio Styles*/
 .portblock {
-    background-color: white;
+    background-color: whitesmoke;
     padding: 20px;
 }
 /*End Portfolio Styles*/
@@ -63,7 +66,7 @@ p a{
 .submit {
 padding: 15px 30px;
 font-size: 16px;
-color:white;
+color:whitesmoke;
 background-color: hsl(208, 91%, 9%);
 border: none;
 }
